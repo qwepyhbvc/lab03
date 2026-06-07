@@ -472,7 +472,7 @@ To https://github.com/qwepyhbvc/lab03.git
 
 ---
 
-## Homework: Formatter Inc.
+# Homework: Formatter Inc.
 
 ### Задание 1: formatter_lib/CMakeLists.txt
 
